@@ -1,0 +1,18 @@
+{
+  "name": "placementinternational",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-stringify": "^6.2.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
