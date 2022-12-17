@@ -1,5 +1,9 @@
-# 
+## This assignment was built with: 
+⭐️ Node.js  
+⭐️ HTTP client Axios  
+⭐️ Cheerio library  
+⭐️ Express.js  
+⭐️ csv-stringify package  
 
-Axios, Cheerio, Express, fs, stringify
-node index.js (rewrites the .csv)
-the spreadsheet -> saved_jobs.csv
+## How to use it?
+Just type node index.js on the terminal. This will rewrite the saved_jobs.csv document included.
